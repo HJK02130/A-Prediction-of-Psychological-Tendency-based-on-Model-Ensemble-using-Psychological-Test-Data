@@ -30,17 +30,12 @@ Filetree (modifying)
 ### Architecture
 
 ### Repository Explaination
-###### 📁 sdsapp<br/>Developed application folder. mainapp.dart is a main dart file.<br/>
-###### 📁 data_aquisition<br/>Data collecting code using YouTube Data API
-> ###### 📁 csv<br/>Total data collected by category. Data such as search, title, number of views, and number of likes.
-> ###### 📁 videos<br/>Metadata for each video (.json)
-> ###### 📁 subtitles<br/>Subtitle data of lecture video obtained using youtube-transcript-api
-> ###### 📁 data<br/>Summarized subtitle data (.json, .csv)
-> ###### 📄 make_recommendation.py<br/>The code that stores a list of recommendations by category
-> ###### 📄 make_video.py<br/>The code that stores metadata and recommendation list for each video
-> ###### 📄 summarize.py<br/The code that summarizes and saves the saved subtitle data
-> ###### 📄 SDS_content_based_recommendation.ipynb<br/>The code that saves a recommendation list using content based recommendation per videoID based on title
-> ###### 📄 maketsne.py<br/>The code that reduces the dimension of an image thumbnail to tsne and saves it
+###### 📁 src<br/>Source Code
+> ###### 📄 eda.py<br/>
+> ###### 📄 preprocess.py<br/>
+> ###### 📄 model_ensemble.py<br/>
+> ###### 📄 evaluation.py<br/>
+
 
 ### Result
 
