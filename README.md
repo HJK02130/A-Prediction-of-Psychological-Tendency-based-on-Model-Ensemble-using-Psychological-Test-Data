@@ -30,8 +30,6 @@
 Filetree (modifying)
 
 ### Architecture
-[📑 Here is Detailed Project Description]()
-<div align=center>  <img src="./img/architecture.png"> </div>
 
 ### Repository Explaination
 ###### 📁 sdsapp<br/>Developed application folder. mainapp.dart is a main dart file.<br/>
