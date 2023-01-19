@@ -30,7 +30,7 @@ Filetree (modifying)
 ### Architecture
 
 ### Repository Explaination
-###### 📁 src<br/>Source Code
+###### 📁 src<br/>
 > ###### 📄 eda.py<br/>
 > ###### 📄 preprocess.py<br/>
 > ###### 📄 model_ensemble.py<br/>
