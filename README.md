@@ -15,6 +15,7 @@
 
 
 ### Overview
+[[DACON contest]](https://dacon.io/competitions/official/235902/overview/description)
 This repository includes algorithms that predict psychological propensity by analyzing psychological test data. We proceeded this project in the preliminary round of the software-oriented university joint AI competition organized by DACON. As the range of psychological tests widens, we analyze the psychological tendency of national election voters/non-voters to explore how to analyze data in that area. Using the data provided by DACON, we classified 'nerdiness'(target value) based on the personal information and answers of the questionnaire. So, We implemented a binary calssification algorithm using pycaret model ensemble. We used area under the ROC curve(AUC) for performance evaluation metrics. Based on AUC, three models with the highest score (Extra Trees Classifier, Random Forest Classifier, and Extreme Gradient Boosting) were selected and we ensembled them. Performance evaluation results showed a high performance of 0.899 for public test set and 0.896 for the private test set.
 <br/>
 
