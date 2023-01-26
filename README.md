@@ -8,10 +8,11 @@
 2. [Requirements](#requirements)
 3. [Languages and Development Tools](#languages-and-development-tools)
 4. [Usage](#usage)
-5. [Architecture (Explaination of Code)](#architecture)
+5. [Architecture](#architecture)
 6. [Result](#result)
-7. [Reference](#reference)
-8. [Developer](#developer)
+7. [Conclusion](#conclusion)
+8. [Reference](#reference)
+9. [Developer](#developer)
 
 
 ### Overview
@@ -87,7 +88,7 @@ Filetree (modifying)
 |AUC|0.89935|0.89578|
 
 ### Conclusion
-
+The process of selecting the best model based on specific performance evaluation metrics through Pycaret is very simple and efficient method, but it seems that performance can be further improved if model tuning and parameter adjustment are made more detailed. And it is also a good idea to select a model in pycaret then import and train the selected model, rather than training it inside pycaret after selection. In addition, if the source of data is unknown, we think it could have been good method that training without complicated preprocessnig like creating new features and imputation missing values. At the end, we can improve performance by rounding the probability results. If the performance is improved considering these limitations and improvements, it is expected that it will be a psychological tendency analysis that helps to explore data analysis in the field of psychological testing.
 
 ### Reference
 
