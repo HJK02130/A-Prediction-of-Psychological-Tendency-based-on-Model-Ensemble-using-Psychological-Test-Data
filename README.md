@@ -85,7 +85,7 @@ Filetree (modifying)
 |Extreme Gradient Boosting|0.7511|0.8200|0.8059|0.7593|0.7819|0.4927|0.4940|1.2060|
 
 
-||Public test set|Private test set|
+|Ensembled Model|Public test set|Private test set|
 |:---:|:---|:---|
 |AUC|0.89935|0.89578|
 
