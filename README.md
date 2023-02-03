@@ -35,11 +35,6 @@ Filetree (modifying)
 + [Data](https://dacon.io/competitions/official/235902/data)
 	+ Psychological test answer results
 	<br/><br/>
-
-+ EDA
-	+ Check Number of Non-Null data, Data Type
-	+ Check Distribution of each Feature
-	<br/><br/>
 	
 + Preprocessing
 	+ Feature processing
@@ -83,6 +78,13 @@ Filetree (modifying)
 		
 
 ### Result
+|Model|Accuracy|AUC|Recall|Prec.|F1|Kappa|MCC|TT(Sec)
+|:---:|:---|:---|:---|:---|:---|:---|:---|:---|
+|Extra Trees Classifier|0.7645|0.8531|0.8269|0.7663|0.7953|0.5191|0.5215|0.2900|
+|Random Forest Classifier|0.7635|0.8490|0.8276|0.7647|0.7948|0.5167|0.5193|0.2880|
+|Extreme Gradient Boosting|0.7511|0.8200|0.8059|0.7593|0.7819|0.4927|0.4940|1.2060|
+
+
 ||Public test set|Private test set|
 |:---:|:---|:---|
 |AUC|0.89935|0.89578|
