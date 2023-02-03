@@ -7,12 +7,11 @@
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Languages and Development Tools](#languages-and-development-tools)
-4. [Usage](#usage)
-5. [Architecture](#architecture)
-6. [Result](#result)
-7. [Conclusion](#conclusion)
-8. [Reference](#reference)
-9. [Developer](#developer)
+4. [Architecture](#architecture)
+5. [Result](#result)
+6. [Conclusion](#conclusion)
+7. [Reference](#reference)
+8. [Developer](#developer)
 
 
 ### Overview
@@ -27,9 +26,6 @@ This repository includes algorithms that predict psychological propensity by ana
 
 ### Languages and Development Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/>
-
-### Usage
-Filetree (modifying)
 
 ### Architecture
 + [Data](https://dacon.io/competitions/official/235902/data)
