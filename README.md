@@ -88,7 +88,8 @@ The process of selecting the best model based on specific performance evaluation
 ### Reference
 [1] Payton J. Jones. (2019). psychometrics[Text document]. https://github.com/paytonjjones/psychometrics.<br/>
 [2] Pycaret. (2022). pycaret[Source code]. https://github.com/pycaret/pycaret.<br/>
-[3] PyCaret Official. (n.d.). Retrieved from https://pycaret.gitbook.io/docs/
+[3] PyCaret Official. (n.d.). Retrieved from https://pycaret.gitbook.io/docs/<br/>
+[4] John, O. P., & Srivastava, S. (1999). The Big-Five trait taxonomy: History, measurement, and theoretical perspectives In L. A. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (Vol. 2, pp. 102–138). New York: Guilford Press.
 
 ### Developer
 Hyunji Kim, Yeaji Kim, Changhyeon Lee.
