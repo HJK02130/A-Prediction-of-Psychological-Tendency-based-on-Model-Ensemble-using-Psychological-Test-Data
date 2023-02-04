@@ -86,8 +86,8 @@ This repository includes algorithms that predict psychological propensity by ana
 The process of selecting the best model based on specific performance evaluation metrics through Pycaret is very simple and efficient method, but it seems that performance can be further improved if model tuning and parameter adjustment are made more detailed. And it is also a good idea to select a model in pycaret then import and train the selected model, rather than training it inside pycaret after selection. In addition, if the source of data is unknown, we think it could have been good method that training without complicated preprocessnig like creating new features and imputation missing values. At the end, we can improve performance by rounding the probability results. If the performance is improved considering these limitations and improvements, it is expected that it will be a psychological tendency analysis that helps to explore data analysis in the field of psychological testing.
 
 ### Reference
-[1] Payton J. Jones(2019)psychometrics[Text].https://github.com/paytonjjones/psychometrics.
-[2] Pycaret(2022)pycaret[Source code].https://github.com/pycaret/pycaret.
+[1] Payton J. Jones(2019)psychometrics[Text].https://github.com/paytonjjones/psychometrics.<br/>
+[2] Pycaret(2022)pycaret[Source code].https://github.com/pycaret/pycaret.<br/>
 [3] PyCaret Official, https://pycaret.gitbook.io/docs/
 
 ### Developer
